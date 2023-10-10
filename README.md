@@ -5,3 +5,5 @@ Added lines to test stuff
 ///
 
 GB: Hi Dat, merge conflict test.
+
+I love git
